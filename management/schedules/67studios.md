@@ -10,7 +10,7 @@ All dates inclusive, each "week" starts on the first date and ends on the second
 
 04. 10/08 - 10/14: David Shi
 
-05. 10/15 - 10/21: REQUIRED (midterm demos)
+05. 10/15 - 10/21: Jonathan Coulter
 
 06. 10/22 - 11/04: 
 
