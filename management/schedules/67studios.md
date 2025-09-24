@@ -14,6 +14,6 @@ All dates inclusive, each "week" starts on the first date and ends on the second
 
 06. 10/22 - 11/04: Carson Gollinger
 
-07. 11/05 - 11/18: 
+07. 11/05 - 11/18: Greyson Barsotti
 
 08. 11/19 - 12/02: Daniel Cheng (final demos)
