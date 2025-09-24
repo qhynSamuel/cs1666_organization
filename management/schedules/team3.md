@@ -12,7 +12,7 @@ All dates inclusive, each "week" starts on the first date and ends on the second
 
 05. 10/15 - 10/21: REQUIRED (midterm demos)
 
-06. 10/22 - 11/04: 
+06. 10/22 - 11/04: William Waite
 
 07. 11/05 - 11/18: 
 
