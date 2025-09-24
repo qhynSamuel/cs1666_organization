@@ -14,6 +14,6 @@ All dates inclusive, each "week" starts on the first date and ends on the second
 
 06. 10/22 - 11/04: 
 
-07. 11/05 - 11/18: 
+07. 11/05 - 11/18: Peter Ju
 
 08. 11/19 - 12/02: REQUIRED (final demos)
