@@ -6,7 +6,7 @@ All dates inclusive, each "week" starts on the first date and ends on the second
 
 02. 09/24 - 09/30: Lucas Loepke
 
-03. 10/01 - 10/07: 
+03. 10/01 - 10/07: Daniel Gornick
 
 04. 10/08 - 10/14: Ryan Liang
 
