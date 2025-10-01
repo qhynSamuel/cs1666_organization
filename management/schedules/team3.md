@@ -16,4 +16,4 @@ All dates inclusive, each "week" starts on the first date and ends on the second
 
 07. 11/05 - 11/18: Sam Chung
 
-08. 11/19 - 12/02: REQUIRED (final demos)
+08. 11/19 - 12/02: Ansel Gunther
